@@ -1,0 +1,11 @@
+.searchCont {
+  margin-bottom: 10px;
+}
+
+.inputField {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid rgb(167, 167, 167);
+  border-radius: 4px;
+  width: 280px;
+}

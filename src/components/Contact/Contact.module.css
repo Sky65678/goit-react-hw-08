@@ -1,0 +1,48 @@
+.contactList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.contactItem {
+  max-width: 330px;
+  display: flex;
+  padding: 5px;
+  border: 1px solid black;
+  align-items: center;
+}
+
+.item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding-left: 10px;
+  height: 25px;
+  width: 130px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+.containerButton {
+  display: flex;
+  gap: 10px;
+}
+
+.deleateButton {
+  padding: 5px 15px;
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  height: 30px;
+  margin-left: auto;
+  margin-right: 10px;
+}

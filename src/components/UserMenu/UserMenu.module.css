@@ -1,0 +1,21 @@
+.cont {
+  display: flex;
+  margin-right: 0;
+}
+
+.p {
+  display: flex;
+  gap: 20px;
+  margin-right: 20px;
+}
+
+.button {
+  display: inline-block; /* Щоб виглядало як кнопка */
+  padding: 10px 20px; /* Внутрішній відступ для кнопок */
+  margin-left: 10px; /* Проміжок між кнопками */
+  text-decoration: none; /* Забрати підкреслення */
+  font-size: 16px; /* Розмір тексту */
+  color: white; /* Колір тексту */
+  background-color: #007bff; /* Колір кнопки */
+  border: none; /* Без рамки */
+}

@@ -1,0 +1,13 @@
+.link {
+  font-size: 22px;
+  color: inherit;
+}
+
+.linkActive {
+  color: rgb(255, 85, 85);
+}
+
+.cont {
+  display: flex;
+  gap: 20px;
+}
